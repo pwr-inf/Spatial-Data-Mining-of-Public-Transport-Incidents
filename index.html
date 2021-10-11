@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        .tabs-nav,
+        .tabs-nav .tab {
+            height: 64px;
+            line-height: 64px;
+        }
+
+        body {
+            display: flex;
+            min-height: 100vh;
+            flex-direction: column;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        main {
+            flex: 1 0 auto;
+            display: flex;
+        }
+
+        .map-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .map-iframe {
+            border: 0;
+            flex: 1;
+        }
+
+        table.striped>tbody>tr:nth-child(odd) {
+            background-color: rgba(242, 242, 242, 0.2);
+        }
+
+        .pagination li a {
+            color: #ffffff;
+        }
+
+        .pagination li.active {
+            background-color: #0277bd;
+        }
+
+        .pdfobject-container {
+            width: 100%;
+            height: 500px;
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+
+<body class="grey darken-4">
+    <div class="navbar-fixed">
+        <nav class="light-blue darken-3">
+            <div class="container">
+                <div class="nav-wrapper">
+                    <a href="#" class="brand-logo">#AlertMPK</a>
+                    <ul id="nav-mobile" class="right">
+                        <!-- <li class="tab"><a class="active" href="#about">About</a></li>
+                        <li class="tab"><a href="#charts">Charts</a></li>
+                        <li class="tab"><a href="#maps">Maps</a></li>
+                        <li class="tab"><a href="#data">Data</a></li> -->
+                        <li>
+                            <ul class="tabs-nav tabs tabs-transparent right">
+                                <li class="tab"><a class="active" href="#about">About</a></li>
+                                <li class="tab"><a href="#charts">Charts</a></li>
+                                <li class="tab"><a href="#maps">Maps</a></li>
+                                <li class="tab"><a href="#data">Data</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        </nav>
+    </div>
+    <main>
+
+        <div id="about" class="container">
+            <div class="row">
+                <div class="col s12 m12">
+                    <div class="card-panel grey darken-3">
+                        <span class="white-text">ABOUT
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="charts" class="container">
+            <div class="row">
+                <div class="col s12 m12">
+                    <div class="card-panel grey darken-3 white-text">
+                        <h4>Distribution of numbers of comments under a post per type</h4>
+                        <div id="boxplot_types_comments" class="pdfobject-container"></div>
+
+                        <h4>Distribution of numbers of reactions under a post per type</h4>
+                        <div id="boxplot_types_reactions" class="pdfobject-container"></div>
+                        
+                        <h4>Cumulative number of comments posted under posts throughout a day</h4>
+                        <div id="comments_hour" class="pdfobject-container"></div>
+
+                        <h4>Cumulative number of comments posted throughout a week and day</h4>
+                        <div id="comments_weekday_hour" class="pdfobject-container"></div>
+
+                        <h4>Cumulative number of comments posted throughout a week</h4>
+                        <div id="comments_weekday" class="pdfobject-container"></div>
+
+                        <h4>Cumulative number of occurences of impacted lines</h4>
+                        <div id="lines_affected" class="pdfobject-container"></div>
+
+                        <h4>Cumulative number of posts posted under posts throughout a day</h4>
+                        <div id="posts_hour" class="pdfobject-container"></div>
+
+                        <h4>Cumulative number of posts posted throughout a week and day</h4>
+                        <div id="posts_weekday_hour" class="pdfobject-container"></div>
+
+                        <h4>Cumulative number of posts posted throughout a week</h4>
+                        <div id="posts_weekday" class="pdfobject-container"></div>
+
+                        <h4>Cumulative number of reactions to all posts</h4>
+                        <div id="reactions" class="pdfobject-container"></div>
+
+                        <h4>Distribution of comments to posts per type</h4>
+                        <div id="types_of_posts_comments" class="pdfobject-container"></div>
+
+                        <h4>Distribution of reactions to posts per type</h4>
+                        <div id="types_of_posts_reactions" class="pdfobject-container"></div>
+
+                        <h4>Distribution of posts per type</h4>
+                        <div id="types_of_posts" class="pdfobject-container"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="maps" style="width: 100%;">
+            <div class="map-container">
+                <div class="row grey darken-3 white-text" style="margin-bottom: 0;width: 100%;">
+                    <div class="col s6 center-align">
+                        <a id="base"
+                            class="map-switcher waves-effect waves-light btn-flat white-text light-blue darken-3"
+                            style="width: 100%;">Base map</a>
+                    </div>
+                    <div class="col s6 center-align">
+                        <a id="reactions" class="map-switcher waves-effect waves-light btn-flat white-text"
+                            style="width: 100%;">Reactions map</a>
+                    </div>
+                </div>
+                <iframe class="map-iframe base" src="maps/map_dark_1.html"></iframe>
+                <iframe class="map-iframe reactions" src="maps/map_dark_2.html" style="display: none;"></iframe>
+                <!-- <iframe id="kbr" class="map-iframe" src="maps/map_dark_1.html"></iframe> -->
+            </div>
+        </div>
+        <div id="data" style="width: 100%;">
+            <div class="row">
+                <div class="col s12 m12">
+                    <div class="card-panel grey darken-3 white-text">
+                        <table class="striped centered">
+                            <thead>
+                                <tr>
+                                    <th>Date & Time</th>
+                                    <th>Label</th>
+                                    <th>Comments</th>
+                                    <th><img style="max-width: 50px" src="css/images/angry.png"></th>
+                                    <th><img style="max-width: 50px" src="css/images/haha.png"></th>
+                                    <th><img style="max-width: 50px" src="css/images/like.png"></th>
+                                    <th><img style="max-width: 50px" src="css/images/love.png"></th>
+                                    <th><img style="max-width: 50px" src="css/images/sad.png"></th>
+                                    <th><img style="max-width: 50px" src="css/images/wow.png"></th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody class="data-table-body">
+                            </tbody>
+                        </table>
+                        <!-- <span class="left" id="total_reg"></span> -->
+                        <ul class="pagination pager" id="tablePager"></ul>
+                        <div class="row center-align">
+                            <a class="waves-effect waves-light btn light-blue darken-3" href="data/AlertMPK.csv" download><i
+                                    class="material-icons left">file_download</i>Download data (.csv)</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="page-footer light-blue darken-3" style="padding-top: 0;">
+        <div class="container center-align">
+            <div class="col s12">
+                <p>Site created by data scientists at the <a class="grey-text text-lighten-4"
+                        href="https://pwr.edu.pl/en/" target="_blank">Wrocław University of Science and Technology</a>
+                </p>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container center-align">
+                © 2020 Powered by:
+                <a class="grey-text text-lighten-4" href="https://github.com" target="_blank">Github</a> •
+                <a class="grey-text text-lighten-4" href="https://leafletjs.com" target="_blank">Leaflet</a> •
+                <a class="grey-text text-lighten-4" href="https://materializecss.com" target="_blank">Materialize</a> •
+                <a class="grey-text text-lighten-4" href="https://www.papaparse.com" target="_blank">Papa Parse</a> •
+                <a class="grey-text text-lighten-4" href="https://pdfobject.com" target="_blank">PDFObject</a>
+            </div>
+        </div>
+    </footer>
+
+    <div id="modalText" class="modal grey darken-3 white-text">
+        <div class="modal-content">
+            <p id="modalTextContent"></p>
+        </div>
+        <div class="modal-footer grey darken-3">
+            <a href="#!" class="modal-close waves-effect waves-green btn-flat light-blue darken-3 white-text">Close</a>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+        integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+        integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="js/papaparse.min.js"></script>
+    <script type="text/javascript" src="js/pagination.js"></script>
+    <script type="text/javascript" src="js/pdfobject.min.js"></script>
+    <!-- <script type="text/javascript" src="data/raw_data.js"></script> -->
+
+    <script>
+        var textDict = {};
+
+        M.Tabs.init(document.querySelector('.tabs-nav'), {});
+        M.Tabs.init(document.querySelector('.tabs-maps'), {});
+
+        document.querySelectorAll('.map-switcher').forEach(btn => btn.onclick = function () {
+            document.querySelectorAll('.map-switcher').forEach(btn => btn.className = 'map-switcher waves-effect waves-light btn-flat white-text');
+            btn.classList.add('light-blue')
+            btn.classList.add('darken-3')
+            document.querySelectorAll('.map-iframe').forEach(map => map.style.display = "none");
+            document.querySelector('.' + String(this.id)).style.display = "block";
+        });
+
+        var data = Papa.parse('data/AlertMPK.csv', {
+            download: true, header: true, complete: completeFn
+        });
+        // var data = Papa.parse(csv_data, { header: true, complete: completeFn });
+
+        function completeFn(results) {
+            if (results) {
+                var columns = ['timestamp', 'label', 'comments_count', 'reaction_angry', 'reaction_haha', 'reaction_like', 'reaction_love', 'reaction_sad', 'reaction_wow']
+                var labelDict = {
+                    'accident': 'Traffic accident',
+                    'malfunction': 'Infrastructure malfunction',
+                    'incident': 'Random incident',
+                    'unknown': 'Unknown cause',
+                    'event': 'Event',
+                    'renovation': 'Renovation',
+                    'fix': 'Fix'
+                }
+                var tableBody = document.querySelector('.data-table-body');
+                results.data.forEach(row => {
+                    row.label = labelDict[row.label];
+                    var tr = document.createElement('tr');
+                    columns.forEach(colName => {
+                        var td = document.createElement('td');
+                        td.innerText = row[colName];
+                        tr.appendChild(td);
+                    });
+
+                    var textTd = document.createElement('td');
+                    textDict[row.id] = row.text.replace(/\\n/g, '<br/>');
+                    textTd.innerHTML = `<a class="waves-effect waves-light btn light-blue darken-3" onclick="openModal('` + row.id + `')">Show text</a>`;
+                    tr.appendChild(textTd);
+                    tableBody.appendChild(tr);
+                });
+                $('.data-table-body').pageMe({
+                    pagerSelector: '#tablePager',
+                    activeColor: 'blue',
+                    perPage: 10,
+                    showPrevNext: true,
+                    nextText: '',
+                    prevText: '',
+                    hidePageNumbers: false
+                });
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            var elems = document.querySelectorAll('.modal');
+            var instances = M.Modal.init(elems, {});
+        });
+
+        function openModal(id) {
+            document.querySelector('#modalTextContent').innerHTML = textDict[id];
+            var instance = M.Modal.getInstance(document.querySelector('#modalText'));
+            instance.open();
+        }
+
+        var options = {
+            pdfOpenParams: { view: 'Fit', statusbar: '0', toolbar: '0', scrollbars: '0', navpanes: '0' }
+        };
+        document.querySelectorAll('.pdfobject-container').forEach(box => {
+            var path = "data/" + box.id + '.pdf';
+            var selector = "#" + box.id;
+            PDFObject.embed(path, selector, options);
+        });
+    </script>
+</body>
+
+</html>
