@@ -1,0 +1,274 @@
+__label__fix #AlertMPK ul. Legnicka - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Legnicka/Kwiska>pl. Jana Pawła II - awaria tramwaju. 🚋 Tramwaje linii 3, 10, 20, 23, 33 zawracają przez Most Pomorski, Pomorską, Dubois, Most Sikorskiego. 🚋 Tramwaje linii 31 i 32 zawracają na Mostach Mieszczańskich.
+__label__fix #AlertMPK ul. Kosmonautów - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Kosmonautów - awaria tramwaju.  🚋 Tramwaje linii 3, 10, 20 skrócono do pętli Pilczyce. 🚌 Uruchomiono autobusy "za tramwaj" w relacji Pilczyce - Leśnica.
+__label__fix #AlertMPK ul. Legnicka/Na Ostatnim Groszu- ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__accident #AlertMPK #TRAM ⚠️ ul. Legnicka/ Na ostatnim groszu - brak przejazdu z powodu wypadku bez udziału pojazdów MPK.  🚋 Tramwaje skierowano ruchem wahadłowym w relacji Kozanów>Pilczyce.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Kwiska>Pilczyce.
+__label__fix #AlertMPK ul. Sienkiewicza - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__incident #AlertMPK #TRAM ⚠️ ul. Sienkiewicza - brak przejazdu . 🚋 Tramwaje linii 9,17 skierowano objazdem przez pl. Bema, Jedności Narodowej, Nowowiejską, Piastowską w obu kierunkach.  🚌 Uruchomiono autobusy "za tramwaj".
+__label__fix #AlertMPK ul. Robotnicza - ruch przywrócony. Autobusy wracają na stałe trasy przejazdu.
+__label__fix #AlertMPK ul. Piłsudskiego - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Piłsudskiego/Lelewela>Dworzec Główny - awaria tramwaju.  🚋 Tramwaje linii 0L, 4, 5, 11, 15, 31, 32 skierowano objazdem przez Podwale, Świdnicką.
+__label__incident #AlertMPK - #BUS ⚠ Akcja Straży Pożarnej na ul. Robotniczej (Dworzec Świebodzki).  🚌 Autobusy linii 106, 148, 149 skierowano objazdem przez pl. Jana Pawła II, Legnicką.
+__label__fix #AlertMPK al. Różyckiego - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__renovation #AlertMPK #TRAM ⚠️ ul. Różyckiego>Sępolno - roboty torowe. 🚋 Tramwaje linii 33 jadą objazdem w relacji pl. Grunwaldzki>ZOO, tramwaje linii 9,17 przez Piastowską, Mickiewicza.  🚌 Uruchomiono autobusy "za tramwaj" do Sępolna.
+__label__fix #AlertMPK ul. Pomorska - ruch przywrócony. Tramwaje wracają n a stałe trasy przejazdu.
+__label__fix #AlertMPK pl. Jana Pawła II - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__unknown #AlertMPK #TRAM ⚠️ul. Pomorska>Centrum - brak przejazdu. 🚋 Tramwaje linii 0l, 14,15,24 skierowano objazdem przez Chrobrego, Drobnera. Linie 14,15 skierowano przez Most Uniwersytecki, ul. Grodzką. Linie 0l, 24 przez Dubois.
+__label__unknown #AlertMPK #TRAM ⚠️ Plac Jana Pawła II>Biskupin - brak przejazdu.  🚋 Ruch wahadłowy w relacji Pilczyce >Leśnica.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Pilczyce> pl. Jana Pawła II.
+__label__renovation #AlertMPK - #TRAM ⚠📣 16.11.2019 - rozpoczęcie przebudowy układu torowego na skrzyżowaniu ulic: Sądowa i Podwale. Zmiany na liniach 🚋 4 i 15:  http://mpk.wroc.pl/content/107479-16112019r-przebudowa-ukladu-torowego-na-skrzyzowaniu-ulic-sadowa-i-podwale … pic.twitter.com/dcdXTxrmEA
+__label__renovation #AlertMPK - #BUS ⚠📣 15.11.2019 (od godz. 21:00) - rozpoczęcie budowy przyłącza wodociągowego na ul. Miłoszyckiej. Autobusy linii 118 🚌 będą kursowały objazdem przez ul. Mydlaną:  http://mpk.wroc.pl/content/107406-15112019r-budowa-przylacza-wodociagowego-w-ciagu-ulicy-miloszyckiej … pic.twitter.com/fcR2LlAmO2
+__label__jam #AlertMPK - #BUS ⚠️🚍 Możliwe opóźnienia w kursowaniu komunikacji autobusowej z powodu natężenia ruchu drogowego.
+__label__fix #AlertMPK pętla Biskupin - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #TRAM ⚠ Pętla Biskupin - pomoc medyczna dla pasażera.  🚋 Tramwaje linii 1, 2, 4, 10 skrócono do pętli ZOO (ul. Kopernika).  🚌 Uruchomiono autobusy "za tramwaj" w relacji pl. Grunwaldzki - Biskupin.
+__label__fix #AlertMPK pl. Wróblewskiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #TRAM ⚠ Pl. Wróblewskiego - pomoc medyczna dla pasażera. 🚋 Tramwaje linii 3 i 5 skrócono do pl. Społecznego.  🚋 Tramwaje linii 0P i 16 skierowano objazdem przez Skargi, Kołłątaja.
+__label__incident #AlertMPK - #BUS ⚠️ Brak przejazdu - ul. Zajączkowska - zablokowana jezdnia przez samochody ciężarowe.  🚌 Autobusy linii 105 skrócono do pętli Kminkowa.
+__label__event #AlertMPK - #TRAM - #BUS Podczas trwania Biegu Niepodległości w dniu 11 listopada 2019 roku we Wrocławiu przewiduje się następujące zmiany w organizacji komunikacji zbiorowej, które zostaną wprowadzone po godzinie 16:00. Więcej informacji:  https://www.facebook.com/notes/mpk-wroc%C5%82aw/i-bieg-niepodleg%C5%82o%C5%9Bci/2701120286616789/ … pic.twitter.com/kJOCLZkaM7
+__label__event #AlertMPK - #TRAM Realizacja zdjęć do filmu "Dom pod Dwoma Orłami" na Moście Piaskowym - w dniu 10.11.2019 r. (niedziela) w godzinach 14:00-24:00 planowane jest wprowadzenie zmiany tras linii tramwajowych 8, 9, 11, 17 i 23. Więcej informacji:  https://www.facebook.com/mpkwroc/photos/a.160780463984130/2700869569975194/?type=3&av=160358247359685&eav=AfaouU4cNAJ4AeW8pbs6MHuvyIXiN-mB6IC5oEpiWxuGOppPpCWvzX254lhTUMDuGqo&theater … pic.twitter.com/kAeE5ZuLZb
+__label__fix #AlertMPK ul. Szewska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Szewska - pomoc medyczna dla pasażera.  🚋 Tramwaje linii 6>KOWALE, 7>POŚWIĘTNE skierowano objazdem przez Teatralną, Skargi, św. Katarzyny, Piaskową, Grodzką.
+__label__event #AlertMPK - #TRAM - #BUS ‼ W dniu 11.11.2019 w godz. 18:30-22:00 odbędzie się Marsz Narodowy. Możliwe utrudnienia w kursowaniu komunikacji miejskiej 🚌 🚋 na trasie: Dubois - M. Mieszczańskie - Wł. Jagiełły - Mostowa - M. Sikorskiego - Podwale - Legnicka (przy pl. Solidarności).
+__label__renovation #AlertMPK - #TRAM Wymiana rozjazdu w ciągu ulicy Piłsudskiego na wysokości budynku NOT - od wyjazdów porannych w dniu 9.11.2019 r. planowane jest wprowadzenie zmian w organizacji komunikacji zbiorowej dla linii: 0L, 2, 5, 11, 15, 31, 32. Więcej informacji:  https://www.facebook.com/mpkwroc/photos/a.160780463984130/2699144690147682/?type=3&av=160358247359685&eav=AfZjbu3_A459J-gEy0MtEHngQDdFvzZTVl9cQV1EgtHoj6bLuOAoawVLr_u4fkxojws&theater … pic.twitter.com/nqJnUpz2EK
+__label__fix #AlertMPK ul. Żernicka - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠ Ul. Żernicka - brak przejazdu (akcja saperów).  🚌 Autobusy linii 109, 148, 149, 609 skierowano objazdem przez Kołobrzeską, Hermanowską, Chociebuską.
+__label__fix #AlertMPK ul. Pułaskiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Ul. Pułaskiego>pl. Wróblewskiego - kolizja.  🚋 Tramwaje linii 16 skierowano objazdem przez Glinianą, Dworzec Autobusowy, Peronową, Kołłątaja, Skargi. 🚋 Tramwaje linii 0L skierowano objazdem przez Kołłątaja, Skargi, pl. Dominikański.
+__label__fix #AlertMPK ul. Nowowiejska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Ul. Nowowiejska/Jaracza>Poświętne - kolizja samochodu osobowego z tramwajem.  🚋 Tramwaje linii 0L, 1 skierowano objazdem przez Sienkiewicza, pl. Bema, Jedności Narodowej, Słowiańską.  🚌 Kursują autobusy "za tramwaj" w relacji pl. Grunwaldzki - Dw. Nadodrze.
+__label__fix #AlertMPK ul. Strachocińska - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #BUS ⚠ Ul. Strachocińska - wypadek bez udziału pojazdów MPK. 🚌 Autobusy linii 115, 118 zawracają na rondzie przy ul. Swojczyckiej/Miłoszyckiej.
+__label__renovation #AlertMPK - #BUS W związku z planowanym rozpoczęciem kolejnego etapu prac związanych z budową trasy autobusowo-tramwajowej na Nowy Dwór, od 9 listopada 2019 roku (sobota) planowane jest wprowadzenie zmiany tras linii autobusowych 106, 107, 109, 132, 142, 148, 149, 206, 249 i 609. pic.twitter.com/CXQYvM960g
+__label__fix #AlertMPK pętla Biskupin - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Pętla Biskupin - brak przejazdu (kolizja).  🚋 Tramwaje linii 1, 2, 4, 10 skrócono do pętli ZOO (ul. Kopernika).  🚌 Uruchomiono autobusy "za tramwaj" w relacji Kopernika - Biskupin.
+__label__fix #AlertMPK ul. Pełczyńska - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠ Akcja Straży Pożarnej na ul. Pełczyńskiej.  🚌 Autobusy linii 105, 108, 111 i 143 skierowano objazdem przez Paprotną, Żmigrodzką, Sułowską, Księgarską, Kominiarską.
+__label__fix #AlertMPK ul. Żmigrodzka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Żmigrodzka przy pętli Poświętne - wypadek samochodu z tramwajem.  🚋 Tramwaje linii 1, 7, 15 zawracają na skrzyżowaniu ul. Bałtyckiej i Żmigrodzkiej.
+__label__fix #AlertMPK ul. Ślężna - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Ślężna/Weigla - awaria tramwaju.  🚋 Tramwaje linii 9 i 15 skrócono do Zajezdni I (Uniwersytet Ekonomiczny).  🚌 Kursują autobusy "za tramwaj" w relacji Petrusewicza - Park Południowy.
+__label__fix #AlertMPK ul. Szewska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Ul. Szewska w kier. Grodzkiej - brak przejazdu.  🚋 Tramwaje linii 6, 7, E2 skierowano objazdem.
+__label__fix #AlertMPK ul. Osobowicka -  ruch przywrócony. Tramwaje i autobusy wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM - #BUS ⚠️ Brak przejazdu - ul. Osobowicka (pod wiaduktem kolejowym) - uszkodzona sieć trakcyjna.  🚋 Tramwaje linii 14, 24, E1, E2, E3, E4, E5, E8, E10 skierowano objazdem do pętli Poświętne przez ul. Bałtycką, Żmigrodzką.
+__label__change #AlertMPK - #BUS ℹ️ Informujemy, że od wyjazdów porannych w dniu 4.11.2019 r. zostanie wprowadzona korekta trasy przejazdu 🚌 autobusów linii 150. Więcej informacji:  https://www.facebook.com/mpkwroc/photos/a.160780463984130/2682998651762286/?type=3&theater … pic.twitter.com/OtZfb8v8zk
+__label__fix #AlertMPK ul. Żmigrodzka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__fix #AlertMPK al. Hallera - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - al. Hallera (FAT) - awaria tramwaju.  🚋 Tramwaje linii 20>LEŚNICA, 24>OSOBOWICE skierowano objazdem przez ul. Grabiszyńską, pl. Legionów, Sądową. 🚌 Uruchomiono autobusy "za tramwaj" w relacji FAT > Hallera.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Żmigrodzka/Wołowska - uszkodzone torowisko.  🚋 Tramwaje linii 1, 7, 15 zawracają na skrzyżowaniu ul. Bałtyckiej i Żmigrodzkiej.
+__label__fix #AlertMPK ul. Blacharska - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠️ Ul. Blacharska - brak przejazdu (nieprawidłowo zaparkowane samochody).  🚌 Autobusy linii 119 skrócono do przystanku Ojca Beyzyma.
+__label__fix #AlertMPK ul. Krupnicza - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Ul. Krupnicza>Kazimierza Wielkiego - awaria tramwaju. 🚋 Tramwaje linii 4 skierowano objazdem przez Dw. Główny, Kołłątaja, Skargi. 🚋 Tramwaje linii 15 skierowano objazdem przez pl. Orląt Lwowskich, pl. Jana Pawła II, Most Sikorskiego, Dubois, Pomorską.
+__label__fix #AlertMPK ul. Małachowskiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Małachowskiego - kolizja tramwaju z samochodem.  🚋 Tramwaje linii 0L skierowano objazdem przez ul. Pułaskiego, Hubską, Glinianą, Borowską, Stawową.
+__label__renovation #AlertMPK - #TRAM Remont torowiska na pętli tramwajowej "Wrocławski Park Przemysłowy" - od 3 listopada 2019 roku (niedziela) planowane jest wprowadzenie zmiany trasy linii tramwajowej 23. Więcej informacji:  http://mpk.wroc.pl/content/107146-3112019r-remont-torowiska-na-petli-tramwajowej-wroclawski-park-przemyslowy … pic.twitter.com/4wfgxgfv5t
+__label__fix #AlertMPK ul. Powstańców Śląskich/Bogusławskiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Powstańców Śląskich/Bogusławskiego - awaria tramwaju.  🚋 Tramwaje linii 6>KRZYKI, 7>KLECINA, 14>FAT, 20>OPORÓW skierowano objazdem przez Krupniczą, Sądową, pl. Legionów, Grabiszyńską.
+__label__fix #AlertMPK ul. Osobowicka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Osobowicka/Serbska - awaria autobusu na torowisku.  🚋 Tramwaje linii 14, 24 skierowano objazdem do pętli Poświętne przez ul. Bałtycką, Żmigrodzką. 🚌 Uruchomiono autobusy "za tramwaj" (pl.Staszica - Osobowice)
+__label__fix #AlertMPK ul. Powstańców Śląskich - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Powstańców Śląskich/Krzycka - awaria tramwaju.  🚋 Tramwaje linii 2, 6, 7, 17 skrócono do Zajezdni Borek.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Orla - Klecina.
+__label__fix #AlertMPK ul. Kosmonautów - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Ul. Kosmonautów - kolizja samochodu z tramwajem. 🚋 Tramwaje linii 3, 10, 20 skrócono do pętli Pilczyce. 🚌 Uruchomiono autobusy "za tramwaj" w relacji Pilczyce - Leśnica.
+__label__fix #AlertMPK Port Lotniczy - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠ Port Lotniczy - brak przejazdu (akcja policji).  🚌 Autobusy linii 106 i 129 zawracają na Rondzie 4 Czerwca 1989 r.
+__label__fix #AlertMPK ul. Podwale - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Podwale/Łąkowa - brak przejazdu (awaria sygnalizacji). 🚋 Tramwaje linii 6, 7, 14, 20 skierowano objazdem przez Sądową, pl. Legionów.
+__label__malfunction #AlertMPK - #TRAM ⚠🚋 Możliwe opóźnienia tramwajów linii 0L, 0P, 1, 2, 4, 10, 16, 33 z powodu wcześniejszego zatrzymania na pl. Grunwaldzkim (awaria tramwaju).
+__label__fix #AlertMPK pętla Kowale - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Pętla Kowale - wykolejenie tramwaju.  🚋 Tramwaje linii 6 skrócono do pętli Kromera.  🚌 Kursują autobusy "za tramwaj" w relacji Kromera - Kowale.
+__label__fix #AlertMPK ul. Świdnicka/Podwale - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Świdnicka/Podwale - uszkodzona zwrotnica.  🚋 Tramwaje linii 6>KOWALE, 7>POŚWIĘTNE skierowano objazdem przez ul. Podwale, Krupniczą, Kazimierza Wielkiego, Szewską.
+__label__fix #AlertMPK ul. Grabiszyńska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Grabiszyńska /Fiołkowa - samochód  na torowisku.  🚋 Tramwaje linii 4, 5, 11, 20 skierowano objazdem przez al. Hallera, Powstańców Śląskich do Zajezdi Borek,. 🚌 Uruchomiono autobusy "za tramwaj".
+__label__fix #AlertMPK ul. Widok - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Widok - awaria tramwaju.  🚋 Tramwaje linii 6>KOWALE, 7>POŚWIĘTNE skierowano objazdem do ul. Świdnickiej przez ul. Podwale, Krupniczą, Kazimierza Wielkiego, Szewską.
+__label__event #AlertMPK - #TRAM - #BUS ⚠ Zmiany w komunikacji miejskiej w okresie Wszystkich Świętych. Od 26.10 zostaną uruchomione specjalne linie tramwajowe i autobusowe 🚋 🚌 ułatwiające dojazd do wrocławskich cmentarzy. Szczegóły:  https://www.facebook.com/notes/mpk-wroc%C5%82aw/komunikacja-miejska-w-okresie-wszystkich-%C5%9Bwi%C4%99tych-2019/2668753846520100/ … pic.twitter.com/sba5ZuAWUL
+__label__fix #AlertMPK ul. Blacharska - ruch przywrócony. autobusy wracają na swoją stałą trasę.
+__label__incident #AlertMPK - #BUS ⚠️ Brak przejazdu - ul. Blacharska - źle zaparkowany samochód.  🚌 Autobusy linii 119 skrócono do przystanku Ojca Beyzyma.
+__label__fix #AlertMPK pl. Grunwaldzki (peron 2) - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__fix #AlertMPK pętla Biskupin - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu przy pętli Biskupin - wykolejenie tramwaju.  🚋 Tramwaje linii 1, 2, 4, 10 skrócono do pętli ZOO.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Wystawowa - Biskupin.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu na pl. Grunwaldzkim (peron 2) - awaria zwrotnicy.  🚋 Tramwaje linii 2, 4, 10>BISKUPIN, 16>ZOO skierowano objazdem przez most Pokoju, ul. Wyszyńskiego, Sienkiewicza, Piastowską.
+__label__fix #AlertMPK ul. Maślicka - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #BUS ⚠ Ul. Maślicka/Rędzińska - wypadek bez udziału pojazdów MPK.  🚌 Autobusy linii 102, 103 skierowano objazdem przez Królewiecką.
+__label__fix #AlertMPK ul. Olszewskiego - ruch przywrócony. Od wyjazdów porannych w dniu 24.10.2019 tramwaje linii 1, 2, 4, 10 powróciły na stałą trasę przejazdu do pętli Biskupin.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Olszewskiego/Piramowicza - uszkodzona sieć trakcyjna. 🚋 Tramwaje linii 1, 2, 4, 10 skrócono do pętli ZOO (ul. Kopernika).  🚌 Kursują autobusy "za tramwaj" w relacji Kopernika - Biskupin.
+__label__fix #AlertMPK ul. Grabiszyńska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Grabiszyńska - brak zasilania w sieci trakcyjnej.  🚋 Tramwaje linii 4, 5, 11, 14, 24 skierowano objazdem przez ul. Powstańców Śląskich, al. Hallera.  🚌 Kursują autobusy "za tramwaj" w relacji pl. Legionów - FAT.
+__label__fix #AlertMPK ul. Żmigrodzka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Żmigrodzka/Kępińska - kolizja samochodu z tramwajem.  🚋 Tramwaje linii 1, 7, 15 zawracają na skrzyżowaniu ul. Bałtyckiej z ul. Żmigrodzką.
+__label__fix #AlertMPK ul. Pomorska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Pomorska>centrum - awaria tramwaju.  🚋 Tramwaje linii 0L, 14, 15 i 24 skierowano objazdem przez Dworzec Nadodrze, Chrobrego, Łokietka.
+__label__fix #AlertMPK ul. Powstańców Śląskich - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Ul. Powstańców Śląskich - kolizja samochodu osobowego z tramwajem.  🚋 Tramwaje linii 2, 6, 7, 17 skrócono do Zajezdni Borek. 🚌 Uruchomiono autobusy "za tramwaj" w relacji Orla - Klecina.
+__label__fix #AlertMPK ul. Kminkowa - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠ Ul. Kminkowa - zablokowany przejazd przez pojazd ciężarowy.  🚌 Autobusy linii 111 i 143 skierowano przez ul. Kominiarską do pętli Pracze Widawskie.
+__label__fix #AlertMPK pl. Grunwaldzki - ruch przywrócony. Tramwaje i autobusy wracają na swoje stałe trasy.
+__label__fix #AlertMPK ul. Szczytnicka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠ Ul. Szczytnicka - brak przejazdu.  🚋 Tramwaje linii 2 i 10 skierowano objazdem przez Most Grunwaldzki.
+__label__fix #AlertMPK ul. Curie-Skłodowskiej - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM - #BUS ⚠ Pl. Grunwaldzki - uszkodzona zwrotnica (brak przejazdu przez peron 2).  🚋 Tramwaje linii 0L skierowano przez peron 4 do pętli ZOO (ul. Kopernika), powrót przez Piastowską.
+__label__incident #AlertMPK - #TRAM ⚠ Ul. Curie-Skłodowskiej>Biskupin - pomoc medyczna dla pasażera.  🚋 Tramwaje linii 1, 2, 4, 10, 16 skierowano objazdem przez most Szczytnicki, al. Różyckiego, al. Paderewskiego, ul. Mickiewicza.
+__label__fix #AlertMPK ul. Mickiewicza - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Ul. Mickiewicza - kolizja samochodu osobowego z tramwajem. 🚋 Tramwaje linii 9, 17, 33 skrócono do pętli Stadion Olimpijski. 🚌 Kursują autobusy "za tramwaj" w relacji Stadion Olimpijski - Sępolno.
+__label__fix #AlertMPK Most Sikorskiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Most Sikorskiego w kier. pl. Jana Pawla II - awaria samochodu osob. na torowisku. 🚋 Tramwaje linii 0L i 24 skierowano na trasę zastępczą przez ul. Nowy Świat, ul. Kazimierza Wielkiego, ul. Sądową.
+__label__fix #AlertMPK - #BUS ⚠️🚍 Ul.Księgarska - zakończenie robót MPWiK. Autobusy linii 105, 108, 111, 143 i 246 powróciły na stałą trasę przejazdu.
+__label__fix #AlertMPK ul. Peronowa - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #TRAM ⚠️ Ul. Peronowa w kier. pl. Dominikańskiego -  akcja pogotowia ratunkowego na torowisku. 🚋 Tramwaje linii 8 i 9 skierowano objazdem przez Stawową, Piłsudskiego, Świdnicką, Teatralną, Skargi.
+__label__fix #AlertMPK ul. Pomorska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Ul. Pomorska>Dubois - kolizja samochodu osobowego z tramwajem.  🚋 Tramwaje linii 0L, 14, 15, 24 skierowano objazdem przez Chrobrego, Drobnera.
+__label__event #AlertMPK - #BUS ℹ️🏇 W związku z planowanymi zawodami Wyścigów Konnych "Dzień Województwa Dolnośląskiego" na torze "Partynice", w dniu 20 października 2019 roku (niedziela) zostanie wprowadzony specjalny rozkład jazdy dla autobusów linii 113. pic.twitter.com/agEkkJenox
+__label__change #AlertMPK - #BUS Z dniem 21 października 2019 roku (poniedziałek) planowane jest wprowadzenie zmiany trasy linii autobusowej 150. Więcej informacji:  https://www.facebook.com/mpkwroc/photos/a.160780463984130/2654583634603788/?type=3&av=160358247359685&eav=AfY_WYb6WzfmyS2bXQOQwFR6QQ00kjU-SKzp3BwJb4i0LjZP14EZnz1clTVl-RKvDXE&theater … pic.twitter.com/kf9C0iYqCr
+__label__fix #AlertMPK Al. Karkonoska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠️ Al. Karkonoska - kolizja samochodu osobowego z tramwajem. 🚋 Tramwaje linii 2, 6, 7, 17 skrócono do Zajezdni Borek. 🚌 Uruchomiono autobusy "za tramwaj" w relacji Orla - Klecina.
+__label__change #AlertMPK - #BUS 9.10.2019 - dodatkowy przystanek autobusowy dla autobusów linii D o nazwie "Most Grunwaldzki", który zlokalizowany jest przy skrzyżowaniu pl. Grunwaldzkiego z Wybrzeżem Wyspiańskiego i ul. Benedykta Polaka.  Przystanek będzie posiadał status przystanku stałego. pic.twitter.com/8mzWyH5rxU
+__label__change #AlertMPK - #BUS ℹ️ W nocy z 18 na 19 października 2019 roku od godziny 22:00 (piątek/sobota) planowane jest wprowadzenie zmiany trasy linii autobusowej A, 105, 116, 118, 130, 132 i kursów nocnych linii 246. Więcej informacji:  https://www.facebook.com/mpkwroc/photos/a.160780463984130/2652491654812986/?type=3&av=160358247359685&eav=Afbv7JOTHOJ7AWolBh8COmkRUQ2W1P1PXzmE1lh9mknzWp7gLNLgHFLy18ZWd1BZgjU&theater … pic.twitter.com/4Gwzw4fwcF
+__label__fix #AlertMPK ul. Grabiszyńska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Grabiszyńska/Hallera - awaria sieci trakcyjnej.  🚋 Tramwaje linii 4, 5, 11 skierowano objazdem do zajezdni Borek przez al. Hallera.  🚋 Tramwaje linii 20 zawracają na pętli Grabiszynek.
+__label__fix #AlertMPK ul. Blacharska - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠️ Ul. Blacharska - brak przejazdu (nieprawidłowo zaparkowane samochody).  🚌 Autobusy linii 119 skrócono do przystanku Ojca Beyzyma.
+__label__fix #AlertMPK ul. Curie-Skłodowskiej - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Curie-Skłodowskiej.  🚋 Tramwaje linii 1, 2, 4, 10, 16 skierowano objazdem przez most Szczytnicki, Różyckiego, Paderewskiego, Mickiewicza w obu kierunkach.
+__label__accident #AlertMPK - #TRAM ⚠️ Ul. Pomorska - brak przejazdu (wypadek bez udziału pojazdów MPK). 🚋 Tramwaje linii 14, 15, 24>Osobowice/Poświętne skierowano objazdem przez Mikołaja, pl. Jana Pawła II, Most Sikorskiego.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Ul. Piłsudskiego>Świdnicka - wykolejenie tramwaju.  🚋 Tramwaje linii 0P skierowano objazdem przez pl. Dominikański, Skargi, Teatralną, Podwale, Krupniczą, Rynek. 🚋 Tramwaje linii 2 skierowano objazdem przez Teatralną, Świdnicką.
+__label__fix #AlertMPK ul. Osobowicka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Ul. Osobowicka - awaria tramwaju.  🚋 Tramwaje linii 14 i 24 skierowano przez ul. Bałtycką, Żmigrodzką do pętli Poświętne.  🚌 Uruchomiono autobusy "za tramwaj" w relacji pl. Staszica - Osobowice.
+__label__fix #AlertMPK Kazimierza Wielkiego/Ruska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠️ Brak przejazdu - ul. Księgarska - awaria wodociągowa.  🚌 Autobusy linii 105, 108, 111, 143 jadące w kierunku centrum skierowano objazdem przez ul. Kominiarską, Miętową, Meliorancką.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Kazimierza Wielkiego/Ruska. 🚋 Tramwaje linii 7>KLECINA, 14, 24>FAT, 15>PARK PŁD. skierowano objazdem przez ul. Dubois, Jagiełły, most Sikorskiego, pl. Jana Pawła II, Ruską.
+__label__fix #AlertMPK pętla Księże Małe - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Pętla Księże Małe - brak przejazdu.  🚋 Tramwaje linii 3 i 5 skrócono do pl. Społecznego.  🚌 Kursują autobusy "za tramwaj" w relacji Galeria Dominikańska - Księże Małe.
+__label__fix #AlertMPK ul. Kwidzyńska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Ul. Kwidzyńska/Bociania - awaria tramwaju.  🚋 Tramwaje linii 6 skrócono do pętli Kromera.  🚌 Uruchomiono autobus "za tramwaj" w relacji Kromera - Kowale.
+__label__fix #AlertMPK ul. Curie-Skłodowskiej - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Curie-Skłodowskiej/Szczytnicka.  🚋 Tramwaje linii 2, 10>BISKUPIN skierowano objazdem od pl. Społecznego przez Most Grunwaldzki.
+__label__fix #AlertMPK ul. Pomorska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Pomorska/Dubois.  🚋 Tramwaje linii 15>POŚWIĘTNE, 24>OSOBOWICE skierowano objazdem przez ul. św. Mikołaja, pl. Jana Pawła II, most Sikorskiego, Mosty Mieszczańskie.
+__label__event #AlertMPK - #BUS ℹ️🏇 W związku z planowanymi zawodami Wyścigów Konnych "Dzień Seniora" na torze "Partynice", w dniu 13 października 2019 roku (niedziela) zostanie wprowadzony specjalny rozkład jazdy dla autobusów linii 113. pic.twitter.com/E33Q5GN7A7
+__label__fix #AlertMPK ul. św. Katarzyny - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. św. Katarzyny.  🚋 Tramwaje linii 6>KRZYKI, 8>TARNOGAJ, 9>PARK PŁD., 11>GRABISZYŃSKA, 17>KLECINA skierowano objazdem od pl. Bema, ul. Sienkiewicza, Wyszyńskiego, pl. Społeczny.
+__label__fix #AlertMPK pl. Grunwaldzki - ruch przywrócony. Tramwaje wracają  na swoje stałe  trasy.
+__label__fix #AlertMPK ul. Powstańców Śląskich - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Powstańców Śląskich/Krzycka w obu kierunkach.  🚋 Tramwaje linii 2, 6, 7, 17 skrócono do Zajezdni BOREK.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Orla - Klecina.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu na pl. Grunwaldzkim (peron 2).  🚋 Tramwaje linii 0L skierowano objazdem do pętli ZOO przez pl. Grunwaldzki (peron 4), ul. Curie-Skłodowskiej, most Zwierzyniecki.
+__label__fix #AlertMPK ul. Krakowska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__fix #AlertMPK al. Różyckiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Ul. Krakowska - brak przejazdu (wypadek bez udziału pojazdów MPK).  🚋 Tramwaje linii 3 i 5 skrócono do pl. Społecznego.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Galeria Dominikańska - Księże Małe.
+__label__malfunction #AlertMPK - #TRAM ⚠ Al. Różyckiego - połamany pantograf w tramwaju.  🚋 Tramwaje linii 9, 17, 33 skierowano objazdem przez ul. Mickiewicza, Most Zwierzyniecki, Curie-Skłodowskiej. 🚌 Kursują autobusy "za tramwaj" w relacji Piastowska - Sępolno.
+__label__fix #AlertMPK ul. Kosmonautów - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Kosmonautów/Złotnicka. 🚋 Tramwaje linii 3, 10, 20 skrócono do pętli Pilczyce. 🚌 Uruchomiono autobusy "za tramwaj" w relacji Pilczyce - Leśnica. 🚌 Trasę autobusów linii 128 przedłużono do pętli Leśnica.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Chwilowy problem z napięciem na sieci trakcyjnej. 🚋 Możliwe opóźnienia tramwajów kursujących w rejonie pl. Legionów, ul. Legnickiej, Świdnickiej, Sądowej, Krupniczej.
+__label__fix #AlertMPK ul. Legnicka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠ Ul. Legnicka - brak przejazdu.  🚋 Tramwaje linii 3, 10, 20, 23, 31, 32, 33 jadące od strony centrum zawracają przez Most Sikorskiego, Mosty Mieszczańskie, Most Pomorski.
+__label__fix #AlertMPK pl. Strzegomski - ruch przywrócony. Tramwaje i autobusy wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Pl. Strzegomski - brak przejazdu (wykolejenie tramwaju). 🚋 Tramwaje linii 3, 10, 20, 23, 31, 32 i 33 jadące od strony centrum zawracają przez Most Sikorskiego, Mosty Mieszczańskie, Most Pomorski.
+__label__fix #AlertMPK pl. Społeczny - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Pl. Społeczny>pl. Grunwaldzki - uszkodzone torowisko. 🚋 Tramwaje linii 0L, 4, 16, 33 skierowano objazdem przez Most Pokoju, Szczytnicką.
+__label__fix #AlertMPK ul. Piłsudskiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Piłsudskiego/Komandorska>Dworzec Główny - połamany pantograf w tramwaju.  🚋 Tramwaje linii 2 skierowano objazdem przez Świdnicką, Teatralną, Skargi. 🚋 Tramwaje linii 5 i 11 skierowano objazdem przez Sądową, Krupniczą, Kazimierza Wielkiego.
+__label__fix #AlertMPK ul. Kosmonautów - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠ Ul. Kosmonautów/Kamiennogórska - kolizja samochodu z tramwajem.  🚋 Tramwaje linii 3, 10, 20 skrócono do Pilczyc.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Pilczyce - Leśnica.
+__label__fix #AlertMPK ul. Szczytnicka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Ul. Szczytnicka - awaria autobusu na torowisku.  🚋 Tramwaje linii 2 i 10 skierowano objazdem przez Most Grunwaldzki.
+__label__fix #AlertMPK ul. Krakowska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Krakowska - wypadek bez udziału pojazdów MPK. 🚋 Tramwaje linii 3, 5 skrócono do pl. Społecznego. 🚌 Uruchomiono autobusy "za tramwaj".
+__label__fix #AlertMPK - pl. Wróblewskiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__fix #AlertMPK Księże Małe - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Księże Małe - brak napięcia w sieci trakcyjnej.  🚋 Tramwaje linii 3 i 5 skrócono do pl. Społecznego. 🚌 Uruchomiono autobusy "za tramwaj" w relacji Galeria Dominikańska - Księże Małe.
+__label__fix #AlertMPK pętla Sępolno - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠ Pętla Sępolno - wykolejenie tramwaju. 🚋 Tramwaje linii 9, 17 i 33 skrócono do pętli Stadion Olimpijski.  🚍 Na odcinku Stadion Olimpijski - Sępolno kursuje autobus "za tramwaj".
+__label__fix #AlertMPK ul. Kazimierza Wielkiego - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #TRAM ⚠ Ul. Kazimierza Wielkiego - samochód w torowisku.  🚋 Tramwaje linii 3, 4, 10, 23 i 33 jadą objazdem przez ul. Skargi, ul.Tetralną i ul. Widok bez pominięcia przystanków.
+__label__event #AlertMPK - #TRAM - #BUS ⚠ UWAGA! Do godziny 19:00 mogą wystąpić utrudnienia w kursowaniu komunikacji zbiorowej w centrum (przemarsze i zgromadzenia).
+__label__fix #AlertMPK pl. Grunwaldzki - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Pl. Grunwaldzki - wykolejenie tramwaju.  🚋 Tramwaje linii 0L, 4, 16 i 33 skierowano objazdem przez Most Pokoju, Szczytnicką.
+__label__fix #AlertMPK pętla Sępolno - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu na pętli Sępolno - wykolejenie tramwaju.  🚋 Tramwaje linii 9, 17, 33 skrócono do pętli Stadion Olimpijski.  🚌 Autobusy linii 118 i 145 przedłużono do pętli Stadion Olimpijski. 🚌 Uruchomiono autobusy "za tramwaj".
+__label__fix #AlertMPK - ul. Robotnicza - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠️ Brak przejazdu - ul. Robotnicza - akcja saperów.  🚌 Autobusy linii 106, 148, 149 skierowano objazdem przez ul. Śrubową, pl. Strzegomski, Legnicką, pl. Jana Pawła II, Podwale.
+__label__renovation #AlertMPK - #BUS ℹ️ Wymiana zwrotnicy tramwajowej przy przystanku "Kwiska", od godziny 0:00 w nocy z 4 na 5 października 2019 roku (piątek/sobota) planowane jest wprowadzenie zmiany na liniach autobusowych 119, 122, 128,129 i 143.  Więcej informacji:  https://www.facebook.com/mpkwroc/photos/a.160780463984130/2623752467686905/?type=3&theater … pic.twitter.com/hDNwlvTtz2
+__label__fix #AlertMPK Most Trzebnicki - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Most Trzebnicki - brak napięcie w sieci trakcyjnej. 🚋 Tramwaje linii 1, 7, 8 skierowano objazdem przez Reymonta, Most Osobowicki, Bałtycką, Żmigrodzką do pętli Poświętne. 🚌 Kursują autobusy "za tramwaj" w relacji Dworzec Nadodrze - Poświętne.
+__label__fix #AlertMPK ul. Tarnogajska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #TRAM ⚠️ Ul. Tarnogajska - brak przejazdu (agresywny pasażer w tramwaju).  🚋 Tramwaje linii 8 i 16 skierowano do Zajezdni I (przystanek Uniwersytet Ekonomiczny). 🚌 Kursują autobusy "za tramwaj" w relacji Gliniana/Borowska - Tarnogaj.
+__label__fix #AlertMPK ul. Grabiszyńska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__renovation #AlertMPK - #BUS ℹ️ Kolejny etap prac związanych z przebudową ul. Długiej. Od 5 października 2019 r. (sobota) planowane jest wprowadzenie zmiany tras linii autobusowych C, 103, 104, 122 , 127, 128 i  245.  Więcej informacji:  https://www.facebook.com/mpkwroc/photos/a.160780463984130/2622019371193548/?type=3&av=160358247359685&eav=Afax0jl-YygNOd0OYIXd5nVldh2vS3jMuHz-KfjoDKu_0BKIClwry-SSVIK-_Abfwq4&theater … pic.twitter.com/fWXD1T8DZh
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Grabiszyńska (Hutmen).  🚋 Tramwaje linii 4>BISKUPIN, 5>KSIĘŻE MAŁE, 11>KROMERA, 14>OSOBOWICE skierowano objazdem przez al. Hallera, ul. Powstańców Śląskich. 🚌 Uruchomiono autobusy "za tramwaj" w relacji FAT>pl. Legionów.
+__label__fix #AlertMPK ul. Mickiewicza - ruch przywrócony. Autobusy wracają na swoją stałą trasę.
+__label__accident #AlertMPK - #BUS ⚠️ Brak przejazdu - ul. Mickiewicza/Kopernika - kolizja bez udziału pojazdów MPK.  🚌 Autobusy linii 115>WOJNÓW skierowano objazdem przez ul. Wróblewskiego, Tramwajową, Dembowskiego, Monte Cassino.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu na pl. Staszica. 🚋 Tramwaje linii 0L, 0P skierowano objazdem przez ul. Dubois, Łokietka, Chrobrego.
+__label__fix #AlertMPK ul. Traugutta - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #TRAM ⚠️ Ul. Traugutta - wypadek bez udziału pojazdów MPK. 🚋 Tramwaje linii 3 i 5 skrócono do pl. Społecznego.  🚌 Kursują autobusy "za tramwaj" w relacji Galeria Dominikańska - Księże Małe.
+__label__fix #AlertMPK ul. Robotnicza - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠️ Brak przejazdu - ul. Robotnicza - awaria pociągu na przejeździe kolejowym. 🚌 Autobusy linii 106, 107, 109, 132, 142, 148, 149, 609 jadące do centrum skierowano objazdem przez Gądowiankę, ul. Legnicką, Śrubową.
+__label__fix #AlertMPK ul. Curie-Skłodowskiej - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM 🚌 Brak przejazdu - ul. Curie-Skłodowskiej/most Zwierzyniecki.  🚋 Tramwaje linii 1, 2, 4, 10>BISKUPIN 16>ZOO skierowano objazdem przez most Szczytnicki, ul. Paderewskiego, Mickiewicza.
+__label__fix #AlertMPK ul. Hubska - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Hubska.  🚋 Tramwaje linii 31, 32 skierowano objazdem przez Piłsudskiego, Małachowskiego, Glinianą. 🚋 Tramwaje linii 16 skierowano objazdem przez Pułaskiego, Małachowskiego, Peronową, Glinianą, Hubską.
+__label__fix #AlertMPK pętla ZOO - ruch przywrócony. Tramwaje wracają na swoją stała trasę.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu na pętli ZOO. 🚋 Tramwaje linii 16 skierowano do pętli BISKUPIN.
+__label__fix #AlertMPK pl. Grunwaldzki - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu na pl. Grunwaldzkim.  🚋 Tramwaje linii 4>BISKUPIN, 16>ZOO skierowano objazdem przez most Pokoju, ul. Wyszyńskiego, Szczytnicką. 🚋 Tramwaje linii 33>SĘPOLNO skierowano objazdem przez most Pokoju, ul. Wyszyńskiego, Sienkiewicza, Grunwaldzką.
+__label__fix #AlertMPK ul. Wyszyńskiego - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #BUS ⚠️ Brak przejazdu ul. Wyszyńskiego/Damrota - wypadek bez udziału pojazdów MPK. 🚌 Autobusy linii A>RACŁAWICKA, N>PETRUSEWICZA, 128>PILCZYCE skierowano objazdem przez ul. Jedności Narodowej, Nowowiejską.
+__label__fix #AlertMPK ul. Przyjaźni - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Ul. Przyjaźni - brak przejazdu.  🚋 Tramwaje linii 7 i 17 skrócono do pętli Krzyki.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Krzyki - Klecina.
+__label__fix #AlertMPK pętla Stadion Olimpijski - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__fix #AlertMPK ul. Piłsudskiego/Peronowa - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Ul. Piłsudskiego/Peronowa - uszkodzona zwrotnica.  🚋 Tramwaje linii 0P skierowano objazdem przez pl. Dominikański, Skargi, Kołłątaja.
+__label__fix #AlertMPK pl. Grunwaldzki - ruch przywrócony. Wszystkie linie tramwajowe wracają na swoje stałe trasy.
+__label__fix #AlertMPK pętla Leśnica - ruch przywrócony. Tramwaje i autobusy wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu na pl. Grunwaldzkim (peron 3, 4) - wykolejenie. 🚋 Tramwaje linii 2, 4, 10, 16, 33>pl. Grunwaldzki skierowano objazdem przez pl. Społeczny, most Pokoju, Wyszyńskiego, Sienkiewicza, Piastowską.
+__label__incident #AlertMPK - #TRAM ⚠️ Brak przejazdu przy pętli Leśnica - drzewo na torowisku. 🚋 Tramwaje linii 3, 10, 20 skrócono do pętli Leśnica.  🚌 Uruchomiono autobusy "za tramwaj" w relacji Pilczyce - Leśnica. 🚌 Trasę autobusów linii 128 wydłużono do Leśnicy.
+__label__incident #AlertMPK - #TRAM ⚠️ Brak przejazdu przy pętli Stadion Olimpijski - drzewo na torowisku.  🚋 Tramwaje linii 9, 17, 33 skierowano objazdem przez ul. Piastowską, pl. Grunwaldzki, most Zwierzyniecki, Mickiewicza w obu kierunkach.
+__label__fix #AlertMPK ul. Borowska/Gliniana - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__incident #AlertMPK - #BUS ⚠️ Brak przejazdu - ul. Osobowicka (przy Lesie Osobowickim) - drzewo na jezdni.  🚌 Autobusy linii 118 skierowano do pętli Ślazowa.
+__label__incident #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Borowska/Gliniana - drzewo na sieci trakcyjnej.  🚋 Tramwaje linii 8>TARNOGAJ skierowano objazdem przez ul. Małachowskiego, Pułaskiego, Hubską.
+__label__fix #AlertMPK ul. Piłsudskiego/Zapolskiej - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__unknown #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Piłsudskiego/Zapolskiej.  🚋 Tramwaje linii 5, 11 jadące w kierunku Arkad skierowano objazdem przez ul. Sądową, Krupniczą, Kazimierza Wielkiego.
+__label__unknown #AlertMPK ul. Osobowicka - ruch przywrócony. Tramwaje wracają na swoje stałe trasy.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Brak przejazdu - ul. Osobowicka - awaria tramwaju.  🚋 Tramwaje linii 14, 24 skierowano objazdem do pętli Poświętne przez ul. Bałtycką, Żmigrodzką.  🚌 Uruchomiono autobusy "za tramwaj" w relacji pl. Staszica - Osobowice.
+__label__fix #AlertMPK rondo Pileckiego - ruch przywrócony. Autobusy wracają na swoje stałe trasy.
+__label__accident #AlertMPK - #BUS ⚠️ Brak przejazdu na rondzie Rotmistrza Witolda Pileckiego - wypadek bez udziału pojazdów MPK. 🚌 Autobusy linii 107, 119, 132 jadące w kierunku Nowego Dworu skierowano objazdem przez ul. Strzegomską, Gądowiankę.
+__label__fix #AlertMPK - ul. Rogowska - ruch przywrócony. Autobusy wracają na stałe trasy.
+__label__fix #AlertMPK - ul. Opatowicka - ruch przywrócony. Autobusy wracają na swoją stałą trasę.
+__label__unknown #AlertMPK - #BUS ⚠️ Brak przejazdu - ul. Rogowska. 🚌 Autobusy linii 109, 148, 609 skierowano objazdem przez ul. Żernicką, Chociebuską w obu kierunkach.
+__label__fix #AlertMPK ul. Piłsudskiego/Komandorska - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__unknown #AlertMPK - #TRAM ⚠️ Ul. Piłsudskiego/Komandroska>pl. Legionów - brak przejazdu.  🚋 Tramwaje linii 0P, 2,5,11,15,31,32 skierowano objazdem przez P.Skargi, Teatralną, Podwale.
+__label__fix #AlertMPK Ul. Wyszyńskiego/Damrota - ruch przywrócony. Autobusy wracają na stałe trasy przejazdu.
+__label__accident #AlertMPK - #BUS ⚠️ Ul. Wyszyńskiego/Damrota> Most Warszawski - wypadek bez udziału pojazdów MPK. 🚌 Autobusy linii A, N, 128 skierowano objazdem przez pl. Bema, Jedności Narodowej.
+__label__fix #AlertMPK ul. Jedności Narodowej - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__malfunction #AlertMPK - #TRAM ⚠️ ul. Jedności Narodowej/Słowiańska - brak przejazdu z powodu uszkodzonego torowiska. 🚋 Tramwaje linii 0L i 1>Poświętne skierowano objazdem przez pl.Bema, Drobnera, Dubois, Pomorską, Dw. Nadodrze.
+__label__fix #AlertMPK Ul. Ślężna/Jaworowa - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__accident #AlertMPK - #TRAM ⚠️ Ul. Ślężna/Jaworowa - kolizja samochodu z tramwajem.  🚋 Tramwaje linii 9 i 15 skrócono do Zajezdni Gaj przy ul. Kamiennej (przystanek Uniwersytet Ekonomiczny).  🚌 Kursują autobusy "za tramwaj" w relacji Dworzec Główny - Park Południowy.
+__label__change #AlertMPK - #BUS ⚠📣 Celem poprawy obsługi komunikacyjnej Osiedla Lipa Piotrowska oraz zapewnienia połączenia obwodowego dla przyszłej linii okólnej, z dniem 28.09 zostanie uruchomiona nowa linia autobusowa 143 🚌 w relacji Kminkowa - Oporów - Kminkowa:  http://mpk.wroc.pl/content/106553-28092019r-uruchomienie-nowej-linii-autobusowej-143-na-trasie-kminkowa-oporow … pic.twitter.com/7qXvJnvGYK
+__label__change #AlertMPK - #TRAM - #BUS ⚠📣 Z dniem 28 września 2019 roku (sobota) zostanie wprowadzony I etap usprawnień w funkcjonowaniu komunikacji nocnej. Zmiany na liniach tramwajowych i autobusowych:  http://mpk.wroc.pl/content/106557-28092019r-i-etap-usprawnien-w-funkcjonowaniu-komunikacji-nocnej … 🚌🚋 pic.twitter.com/j81mWb56Gw
+__label__fix #AlertMPK Rondo Powstańców Śląskich - ruch przywrócony. Tramwaje wracają na swoje stałe trasy przejazdu.
+__label__unknown #AlertMPK - #TRAM ⚠️ Rondo Powstańców Śląskich - brak przejazdu.  🚋 Tramwaje linii 2,6,7,14,17,20 skierowano objazdem przez ul. Grabiszyńską, Hallera.  🚌 Uruchomiono autobusy "za tramwaj" w relacji ul. Świdnicka>Hallera.
+__label__fix #AlertMPK Ul. Pełczyńska - ruch przywrócony. Autobusy wracają na stale trasy przejazdu.
+__label__accident #AlertMPK - #BUS ⚠️ Ul. Pełczyńska - wypadek bez udziału pojazdów MPK. 🚌 Autobusy linii 105, 108 i 111 skierowano objazdem przez Żmigrodzką, Sułowską, Księgarską, Kominiarską.
+__label__fix #AlertMPK pl. Bema - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__malfunction #AlertMPK - #TRAM ⚠️ Pl. Bema - brak napięcia w sieci trakcyjnej.  🚋 Tramwaje linii 6, 8, 11 i 23 skierowano objazdem przez Dworzec Nadodrze, Chrobrego/Pomorską. 🚋 Tramwaje linii 9 i 17 skierowano objazdem przez Wyszyńskiego, Most Pokoju.
+__label__fix #AlertMPK ul. Słowiańska - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__malfunction #AlertMPK - #TRAM ⚠️ ul. Słowiańska - brak przejazdu z powodu awarii torowsika.  🚋 Tramwaje linii 0L i 1>Poświętne skierowano objazdem przez Poniatowskiego, pl.Bema, Drobnera, Dubois, Pomorską, pl. Staszica> Dw. Nadodrze
+__label__fix #AlertMPK ul. Blacharska - ruch przywrócony. Autobusy wróciły na stałe trasy przejazdu.
+__label__event #AlertMPK - #BUS ⚠📣 28.09.2019 - Bieg Uniwersytetu Medycznego. Od godziny 10:00 do 12:00 autobusy linii 🚌 113 zostaną skierowane objazdem przez ul. Parafialną do ul. Strachowskiego. Szczegóły:  http://mpk.wroc.pl/content/106556-28092019r-bieg-uniwersytetu-medycznego … pic.twitter.com/pHJmoW3xRZ
+__label__incident #AlertMPK - #BUS ⚠️ Ul. Blacharska - brak przejazdu (nieprawidłowo zaparkowane samochody).  🚌 Autobusy linii 119 skrócono do przystanku Ojca Beyzyma.
+__label__fix #AlertMPK pl. Grunwaldzki - ruch przywrócony. Tramwaje i autobusy wracają na stałe trasy przejazdu.
+__label__incident #AlertMPK - #TRAM - #BUS ⚠️ Pl. Grunwaldzki (peron 4) - brak przejazdu (pomoc medyczna dla pasażera).  🚋 Tramwaje linii 2, 4, 10 i 16 skierowano objazdem przez Wyszyńskiego, Szczytnicką. 🚌 Autobusy linii 115, 145, 146, 715 skierowano przez peron 2.
+__label__fix #AlertMPK ul. Peronowa - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__malfunction #AlertMPK - #TRAM ⚠ Awaria autobusu linii N na torowisku na ul.Peronowej w kier. pl.Dominikańskiego. 🚋 Tramwaje linii 8 i 9 skierowano na trasę objazdową przez ul.Piłsudskiego, Świdnicką i Teatralną.
+__label__fix #AlertMPK ul. Widawska - ruch przywrócony. Autobusy wróciły na stałe trasy przejazdu.
+__label__incident #AlertMPK - #BUS ⚠ Brak przejazdu przez pętlę na ul.Widawskiej (zaparkowane samochody - festyn).  🚍 Autobusy linii 130 skrócono do ul.Pawłowickiej.
+__label__fix #AlertMPK ul. Popowicka/Wejherowska (awaria wodociągowa) - ruch przywrócony. Autobusy wróciły na stałe trasy przejazdu.
+__label__fix #AlertMPK ul. Legnicka - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__unknown #AlertMPK - #TRAM ⚠ Ul. Legnicka/Kwiska - brak przejazdu. 🚋 Tramwaje linii 3, 10, 20, 31, 32, 33 i T1 skierowano do pętli WPP. 🚋 Wprowadzono ruch wahadłowy w relacji Pilczyce - Leśnica. 🚍 Kursują autobusy "za tramwaj" w relacji Dolmed - Pilczyce i Dolmed - Stadion Miejski.
+__label__fix #AlertMPK pl. Bema - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__accident #AlertMPK - #TRAM ⚠️ Ul. Sienkiewicza/pl. Bema>Galeria Dominikańska - wypadek bez udziału pojazdów MPK.  🚋 Tramwaje linii 9 i 17 skierowano objazdem przez Wyszyńskiego, Most Pokoju, pl. Społeczny.
+__label__fix #AlertMPK ul. Grabiszyńska - ruch przywrócony. Tramwaje wracają na stałe trasy przejazdu.
+__label__accident #AlertMPK - #TRAM ⚠️ Ul. Grabiszyńska - wypadek bez udziału pojazdów MPK. 🚋 Tramwaje linii 4, 5, 11, 14 i 24 skierowano objazdem przez Hallera, Powstańców Śląskich. 🚌 Kursują autobusy "za tramwaj" w relacji FAT - pl. Legionów - FAT.
+__label__incident #AlertMPK - #BUS W związku z rozpoczęciem prac związanych z usunięciem awarii MPWiK na skrzyżowaniu ulicy Popowickiej i Wejherowskiej, od godziny 20:00 dnia 20.09.2019 roku (piątek) planowane jest wprowadzenie zmiany tras linii autobusowych 119 i 129:  http://mpk.wroc.pl/content/106549-20092019r-usuwanie-awarii-mpwik-na-skrzyzowaniu-ulicy-wejherowskiej-i-popowickiej … pic.twitter.com/p1YgEU3u3r
+__label__fix #AlertMPK ul. Blacharska - ruch przywrócony. Autobusy wróciły na stałe trasy przejazdu.
